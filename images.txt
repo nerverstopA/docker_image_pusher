@@ -1,3 +1,8 @@
 nginx
 mysql
 redis
+elasticsearch:8.16.0
+logstash:8.16.0
+kibana:8.16.0
+nacos/nacos-server:v2.4.3
+apache/rocketmq:5.3.1

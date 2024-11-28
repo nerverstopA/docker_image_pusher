@@ -7,4 +7,7 @@ kibana:8.16.0
 kibana:7.10.1
 nacos/nacos-server:v2.4.3
 apache/rocketmq:5.3.1
+nacos/nacos-server:v2.4.3
+jenkins/jenkins:2.487
+
 

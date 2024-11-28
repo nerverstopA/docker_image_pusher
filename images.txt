@@ -10,4 +10,5 @@ apache/rocketmq:5.3.1
 nacos/nacos-server:v2.4.3
 jenkins/jenkins:2.487
 openzipkin/zipkin:3
+pangliang/rocketmq-console-ng
 

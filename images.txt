@@ -13,3 +13,4 @@ openzipkin/zipkin:3
 pangliang/rocketmq-console-ng
 xuxueli/xxl-job-admin:2.4.2
 homeassistant/home-assistant:dev
+elasticsearch:8.16.5

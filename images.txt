@@ -15,3 +15,12 @@ xuxueli/xxl-job-admin:2.4.2
 homeassistant/home-assistant:dev
 elasticsearch:8.16.5
 nginx:latest
+langgenius/dify-sandbox:0.2.11
+ubuntu/squid:latest
+langgenius/dify-web:1.2.0
+postgres:15-alpine
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-plugin-daemon:0.0.7-local
+langgenius/dify-api:1.2.0
+redis:6-alpine
